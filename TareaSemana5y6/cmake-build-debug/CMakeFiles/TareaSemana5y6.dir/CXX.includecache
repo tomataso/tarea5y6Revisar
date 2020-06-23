@@ -1,0 +1,50 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/tomat/Desktop/Estructura de Datos/TareaSemana5y6/Contacto.h
+string
+-
+iostream
+-
+
+C:/Users/tomat/Desktop/Estructura de Datos/TareaSemana5y6/ListaContactos.h
+mmcobj.h
+-
+NodoContactos.h
+C:/Users/tomat/Desktop/Estructura de Datos/TareaSemana5y6/NodoContactos.h
+Contacto.h
+C:/Users/tomat/Desktop/Estructura de Datos/TareaSemana5y6/Contacto.h
+string
+-
+
+C:/Users/tomat/Desktop/Estructura de Datos/TareaSemana5y6/ListaNumero.h
+mmcobj.h
+-
+NodoNumeros.h
+C:/Users/tomat/Desktop/Estructura de Datos/TareaSemana5y6/NodoNumeros.h
+string
+-
+
+C:/Users/tomat/Desktop/Estructura de Datos/TareaSemana5y6/NodoContactos.h
+Contacto.h
+C:/Users/tomat/Desktop/Estructura de Datos/TareaSemana5y6/Contacto.h
+
+C:/Users/tomat/Desktop/Estructura de Datos/TareaSemana5y6/NodoNumeros.h
+
+C:/Users/tomat/Desktop/Estructura de Datos/TareaSemana5y6/main.cpp
+iostream
+-
+string
+-
+ListaNumero.h
+C:/Users/tomat/Desktop/Estructura de Datos/TareaSemana5y6/ListaNumero.h
+ListaContactos.h
+C:/Users/tomat/Desktop/Estructura de Datos/TareaSemana5y6/ListaContactos.h
+Contacto.h
+C:/Users/tomat/Desktop/Estructura de Datos/TareaSemana5y6/Contacto.h
+
